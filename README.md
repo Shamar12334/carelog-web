@@ -14,3 +14,20 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# CareLog Web App
+
+CareLog helps behavioral health facilities log staff rounds, track check-ins, generate reports, and analyze care patterns.
+
+## Features
+- Staff check-ins & activity logs
+- Forms & reports
+- Analytics & insights
+- Team collaboration
+
+## Pricing
+- Free: up to 5 staff
+- Facility: up to 25 staff
+- Enterprise: custom setup
+
+## Tech Stack
+- React + TailwindCSS
